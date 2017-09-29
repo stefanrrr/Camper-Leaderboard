@@ -1,0 +1,117 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #031727;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  font-size: 1em;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size:xx-large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.table
+{
+  text-align: center;
+  border: hidden;
+}
+
+.imgHeight
+{
+  height:90px;
+  float:left;
+  border: 1px solid black;
+  border-radius: 100%;
+  margin-bottom: 10px;
+}
+
+.title
+{
+  color: #FFD77A;
+  font-size: 90px;
+  margin-bottom: 0px;
+}
+
+.subtitle
+{
+  color:gray;
+  font-size: 20px;
+  margin-bottom: 90px;
+}
+
+.top
+{
+  margin-left: 270px;
+  margin-bottom: 30px;
+}
+
+.bottom
+{
+  margin-left: 250px;
+}
+
+.row
+{
+  margin-bottom: 100px;
+}
+
+.click
+{
+  text-align: center;
+  color:#FFD77A;
+  font-size: 25px;
+}
+.click:hover
+{
+  color:white;
+  pointer-events: pointer;
+  cursor: pointer;
+}
+
+.first
+{
+  text-align: center;
+  color:#FFD77A;
+  font-size: 25px;
+}
+
+.padd
+{
+  margin-top: 300px;
+}
+
+.body{
+  font-size: 30px;
+}
+a
+{
+  color: white;
+  display: inline-block;
+}
+
+a:hover
+{
+  cursor: pointer;
+  text-decoration-line: none;
+  color: #FFD77A;;
+}
+
+
